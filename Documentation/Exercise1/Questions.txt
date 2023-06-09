@@ -1,0 +1,11 @@
+1. How can your implementation be optimized?
+By using events and getting rid of anything on update. Should have used the state pattern to handle the change of color states for specfic objects.
+
+2. How much time did you spend on your implementation?
+About 3 to 4 hours.
+
+3. What was most challenging for you?
+Deciding how I wanted to to handle saving the xml docs and load them was the most challenging for me.
+
+4. What else would you add to this exercise
+Utilize events, update colors and distance even when the player is not moving but the items and bots are.
